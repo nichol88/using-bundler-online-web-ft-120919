@@ -1,6 +1,7 @@
-gem "pry", group: :development
+
 source "https://rubygems.org"
 
+gem "pry", group: :development
 gem "rspec"
 gem "sinatra"
 gem 'hashie'
